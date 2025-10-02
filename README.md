@@ -1,16 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World!%20I'm%20hshs%20jahajh👨‍💻&fontSize=40&fontAlignY=35&desc=C%20%26%20C%20Enthusiast%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World!%20I'm%20hshs%20andikaseptianantha👨‍💻&fontSize=40&fontAlignY=35&desc=C%20%26%20C%20Enthusiast%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
 ## 👋 About Me
 Hi, I’m Andika Septianantha — a programmer who loves solving problems with clean, efficient, and creative code.  
-I specialize in:  
+I specialize in: 
+
 ⚡ *Programming* with *C*    
 🛠 Building reliable solutions, from low-level logic to high-level workflows  
-
 💡 Always curious, always learning, and always coding.
 
 ---
