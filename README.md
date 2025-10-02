@@ -6,10 +6,10 @@
 ---
 
 ## 👋 About Me
-Hi, I’m Andika Septianantha — a newbie programmer who loves solving problems.  
+Hi, I’m Andika Septianantha — a newbie programmer who loves programming.  
 I specialize in: 
 
-⚡ *Programming* with *C*    
+⚡ *Programing* with *C*    
 🛠 Building solutions in low-level logic 
 💡 Always learning and coding.
 
