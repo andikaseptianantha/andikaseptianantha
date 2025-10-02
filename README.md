@@ -10,7 +10,7 @@ Hi, I’m Andika Septianantha — a newbie programmer who loves solving problems
 I specialize in: 
 
 ⚡ *Programming* with *C*    
-🛠 Building reliable solutions, from low-level logic to high-level  
+🛠 Building solutions in low-level logic 
 💡 Always learning and coding.
 
 ---
