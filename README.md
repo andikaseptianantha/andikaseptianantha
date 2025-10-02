@@ -11,7 +11,6 @@ I specialize in:
 
 ⚡ *Programing* with *C*    
 🛠 Building solutions in low-level logic 
-
 💡 Always learning and coding.
 
 ---
