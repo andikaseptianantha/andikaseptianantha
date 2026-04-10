@@ -18,7 +18,7 @@ I specialize in:
 ## 🛠 Skills & Tools
 - *Languages:* C
 - *Focus Areas:* Programming
-- *Tools:* Git, VS Code, Adobe Photoshop (for design touch-ups)  
+- *Tools:* Git, VS Code, Figma (for design touch-ups)  
  
 ---
 
