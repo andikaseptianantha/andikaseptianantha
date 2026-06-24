@@ -6,19 +6,7 @@
 ---
 
 ## 👋 About Me
-Hi, I’m Andika Septianantha — a newbie programmer who loves programming.  
-I specialize in: 
-
-⚡ *Programing* with *C*    
-🛠 Building solutions in low-level logic                                         
-💡 Always learning and coding.
-
----
-
-## 🛠 Skills & Tools
-- *Languages:* C
-- *Focus Areas:* Programming
-- *Tools:* Git, VS Code, Figma (for design touch-ups)  
+Hi, I’m Andika Septianantha — a newbie programmer
  
 ---
 
