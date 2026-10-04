@@ -21,7 +21,7 @@ Hi, I’m Andika Septianantha — a newbie programmer
 
 ## 🌐 Connect With Me  
 📧 Email: [andikaanjay791@gmail.com](#)    
-🔗 Instagram [https://instagram.com/andikaseptianantha](#)  
+🔗 Instagram [https://instagram.com/andikaseptiananthaa](#)  
 
 ---
 
